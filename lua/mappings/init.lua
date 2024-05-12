@@ -1,0 +1,6 @@
+require("mappings.base")
+require("mappings.tabufline")
+require("mappings.global_lsp")
+require("mappings.comment")
+require("mappings.nvim-tree")
+require("mappings.telescope")

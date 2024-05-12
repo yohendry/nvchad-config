@@ -1,0 +1,22 @@
+return {
+    ensure_installed = {
+        "astro-language-server",
+        "css-lsp",
+        -- "cssmodules-language-server",
+        "dockerfile-language-server",
+        "docker-compose-language-service",
+        "eslint-lsp",
+        "eslint_d",
+        "html-lsp",
+        "json-lsp",
+        "marksman",
+        "mdx_analyzer",
+        "prettierd",
+        "prisma-language-server",
+        "svelte-language-server",
+        "tailwindcss-language-server",
+        "typescript-language-server",
+        "vue-language-server",
+        "biome",
+    },
+}
